@@ -7,5 +7,19 @@
   },
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "description": "CI/CD pipeline using Jenkins, Docker, Kubernetes",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickairiel/DevOps-Class-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nickairiel/DevOps-Class-Project/issues"
+  },
+  "homepage": "https://github.com/nickairiel/DevOps-Class-Project#readme"
 }
